@@ -29,6 +29,6 @@ section{
     background-color: rgb(82, 80, 199);
     padding-bottom: 80px;
     padding-top: 80px;
-    display: flex;
+    display:flex;
     justify-content: center;
 }
